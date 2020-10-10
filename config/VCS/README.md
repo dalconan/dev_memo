@@ -35,6 +35,11 @@ Windows
 C:\Users\[Your_name]\.gitconfig
 ```
 
+設定 gitignore_global
+```
+git config --global core.excludesfile ~/.gitignore_global
+```
+
 ## SVN
 
 ### ignore(排除檔案設定)
