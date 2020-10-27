@@ -137,3 +137,11 @@ Homestead.json
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
 #####Laravel End######
+
+####VSCODE####
+.vscode/*
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+####VSCODE End##
